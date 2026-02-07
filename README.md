@@ -1,6 +1,6 @@
 # paginatallertrasmultimedia
 ## mi primera pagina web
-_La pagina mas linda de todas_
+_La pagina mas linda de todas._
 ## Quién soy
 Mi nombre es Sara Castillo Valderrama
 
